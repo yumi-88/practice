@@ -34,7 +34,7 @@
 | 彼女はメール読んでる？ | Is she reading her email? | Yes, she's reading her email. <br>(She's reading it.) |  
 | 彼女は両親と一緒に住んでる？ | Does she live with her parents? | No, she doesn't live with her parents.<br>(she doesn't live with them.) |  
 | 彼らは歯を磨いている？ | Are they brushing their teeth? | Yes, they're brushing their teeth. |  
-  
+<br>
   
 ## 関係代名詞 which/who(目的格)の省略 [URL](https://youtu.be/JqF99DZlkws)  
 名詞を先に言うのがポイント  
