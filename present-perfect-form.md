@@ -129,7 +129,7 @@ sinceやforを使う
 | I've been sick since last night. | 昨日の夜から具合が悪い |  
 | I was sick lastnight. | 昨日の夜は具合が悪かった(今は元気) |  
   
-## 練習問題
+### 練習問題
 | 英語 | 日本語 |  
 ----|----
 | She has taught English for 8 years. | 彼女は英語を８年間教えています |  
