@@ -1,4 +1,4 @@
-## 所有格・主格の代名詞 スピーキングチャレンジ10 [URL](https://youtu.be/XU4I3mh-sDM)  
+## [所有格・主格の代名詞 スピーキングチャレンジ10 #205](https://youtu.be/XU4I3mh-sDM)  
 ### 主格と所有格の代名詞
 | 主格 | 所有格 |
 ----|---- 
@@ -36,7 +36,7 @@
 | 彼らは歯を磨いている？ | Are they brushing their teeth? | Yes, they're brushing their teeth. |  
 <br>
   
-## 関係代名詞 which/who(目的格)の省略 [URL](https://youtu.be/JqF99DZlkws)  
+## [関係代名詞 which/who(目的格)の省略 #204](https://youtu.be/JqF99DZlkws)  
 名詞を先に言うのがポイント  
 ### 例文  
 | 日本語 | 英訳 |
