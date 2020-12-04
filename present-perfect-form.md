@@ -27,8 +27,8 @@ live / 習慣 / 仕事 ...など
 例文  
 | 英語 | 日本語 |
 ----|---- 
-| I have lived here for the past 5 years.  I have been living here for the past 5 years | 私はここに５年間住んでいます |
-|  |  |
+| I have lived here for the past 5 years. <br>I have been living here for the past 5 years | 私はここに５年間住んでいます |
+| She has taught English for 8 years. <br>She has been teaching English for 8 years | 彼女は英語を８年間教えています。（いました） |
 |  |  |
 |  |  |
 |  |  |
