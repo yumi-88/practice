@@ -137,3 +137,14 @@ sinceやforを使う
 | We've owned this car since 2016. | 私たちはこの車を2016年から持っています |  
 | We've known each other for many years. | 私たちは知り合ってから長い中です。 |  
 | They've been married since last year. | 彼らは去年から結婚しています |  
+<br>
+  
+## [現在完了形と過去形の違い(when,ago,since,forの違い) #158](https://youtu.be/6QjDKk4bcGg)  
+  
+### 現在完了形で使えない時間の言い方   
+```  
+when (~したとき)  
+last week 
+last year  
+```  
+  
