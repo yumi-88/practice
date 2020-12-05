@@ -117,6 +117,23 @@ already,yet,justを使うような完了を意味する文章のとき、過去�
 ```  
 already,yet,justを使うような完了を意味する文章のとき、過去形になりやすい
 ```  
+例文  
+英語 | 日本語  
+---|---  
+| It's already the end of the year. | もう年末だね |
+| It's already 7 o'clock. | もうすぐ7時だよ |  
+| I've already bought the ticket.<br>I already bought the ticket | もうチケット買ったよ |  
+| Have you already bought the ticket?<br>Did you already buy the ticket? | (買わなくてもよかったのに)もうチケット買っちゃったの? |  
+| Have you bought the ticket (yet)?<br>Did you buy the ticket (yet)? | もうチケット買った? |  
+| Did you eat yet? | もうお昼食べた? |  
+| Did you eat already? | (一緒に食べたかったのに)もう食べちゃったの? |  
+| Is it 7 o'clock yet? | もう7時になった? |  
+| Is it 7 o'clock already? | え、もう7時なの? |  
+| Have you finished your homework yet?<br>Did you finish your homework (yet)? | もう宿題終わった? |  
+| Has he already left?<br>Did he already leave? | 彼、もう帰っちゃったの?(驚き) |  
+| Are you ready (yet)? | もう準備できた? |  
+| Have you seen the movie (yet)?<br>Did you see the movie (yet)? | もうあの映画見た? |  
+| Is your daughter 1 already?<br> | 娘さん、もう1歳になったの?(驚き) |  
 <br>  
   
 ## [現在完了進行形の使い方 #202](https://youtu.be/GeJ5_SoQCgA)
@@ -140,7 +157,7 @@ already,yet,justを使うような完了を意味する文章のとき、過去�
 | I have been eating junk food lately. | 私は最近ジャンクフードにハマっている |
 <br>
   
-## [現在完了形と現在進行形のちがい #203](https://youtu.be/58DR_AGE_Xc)  
+## [現在完了形と現在完了進行形のちがい #203](https://youtu.be/58DR_AGE_Xc)  
   
 ### 1. (短い)アクションを表す動詞
 ```    
